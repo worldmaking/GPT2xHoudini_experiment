@@ -1,0 +1,339 @@
+======== SAMPLE 1 ========
+ div. "p": 0, "z": 0 }}, "secondary": { "title": "$:/core/modules/parsers/secondary.js", "text": "/*\\
+
+title: $:/core/modules/parsers/secondary.js
+
+type: application/javascript
+
+module-type: parser
+
+
+Simple parsers
+
+
+\\*/
+
+(function(){
+
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+*/
+
+(function(){
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+*/
+
+(function(){
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+/*
+
+Export our file as: $:/core/modules/parsers/secondary.js
+
+
+\\*/
+
+(function(){
+
+/*jslint node: true, browser: true */
+
+/*global $tw: false */
+
+\"use strict\";
+
+
+})();/*
+
+Drag in a single string or the whole string to display it
+
+*/
+
+export function drag ( string ) {
+
+return '<g id="item-container">';
+
+})();
+
+
+/*
+
+Show a list of the selected modules
+
+*/
+
+import (
+
+"fetch" ,
+
+"selector" ,
+
+"list" ,
+
+"sort" ,
+
+"resize" ,
+
+"re
+
+======== SAMPLE 2 ========
+ div
+
+|
+
+|
+
+|
+
+
+| |
+
+|
+
+
+// -A.G.U. -A.T.I.E.R. -A.T.I.E.R. (Aegern) -A.T.I.E.R. -A.T.I.E.R -A.T.I.E.R. -A.T.I.E.R. -A.T.I.E.R. -A.T.I.E.R.
+
+|
+
+// -A.T.I.E.R. -A.T.I.E.R. (Aegern) -
+
+|
+
+// -A.T.I.E.R. -A.T.I.E.R. -A.T.I.E.R. -A.T.I.E.R. -A.T.I.E.R.
+
+|
+
+// -L - L - (L) - (L - L - (L))
+
+|
+
+// -L -l -a - a - (l - a - a)) - (l -a - a - a) -(l -a - l - a) -b - b -(a - (a - (a - a)))) - (l -a - l - a) -ca - ca (ca -(a - (a - (a - (a - (a - a))))) -f - f (-f -f -f -f ) -f -f -f ) -f -f -f -f )
+
+|
+
+// -l -l -a -b -c -d -e -f (-f -(i - (l - a )) -f -f -(i - (l - b )) -f -f -f -f -f ) -i - (l -a )
+
+|
+
+// -t -t -l -t -a -b (-t -l -s -s (-tl -tl -s -tl -tl -tl -l) -t -t -t -t -t -t -t -t -t -l ) -t -t -t -t -t -t -t -t -(f -f -f ) -t -t -t -t -t -t -t -t -t -l )
+
+|
+
+// -v -v -v -v (-v -v -v -v -va -va -va -va (-va -va -va -va -va -va -va -va))) -v -v -v -v -v -va -va -va -va -va -va -va)
+
+|
+
+// -v -v -v -v (-v -v -v -v (-va -v -va -va -va -va -va -va -va -va)) -v -v -v -v -v -va -va -va -va -va -va -va)
+
+# ifndef CONFIG_ARM_GCC
+
+// -g -g -g -g - (g -g -a -a) --(a - (a - (a - (a - a)))) -(a - (a - (a - (a - (a - (a - (a - (a - (a - (a))))) -a - ((-(a - (a - (a - (a - (a - (a - (a - (a - (a - (a - (a - (a - (a - (a - (a - ((-(a - (a - (- (a - (a - (a - (a - (a - (a - (a - (a - ((a - ((a - (a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - (a - (a - ((a - ((a - (a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((a - ((
+
+======== SAMPLE 3 ========
+ div. for -webkit-button: element; element.style.position: absolute; } .container.getAttr("form-control"); return; } .container.getAttr("form-control"); .container.getAttr("form-control"); /* This property can be useful when the text is larger than a number, such as for example '#', or the number is smaller than the '#' attribute. If the text would be bigger than the '#', then the '#' attribute would be changed accordingly. */ .container.getAttr( "content-width" ); // use if (this === 'div'); // The content will be smaller than the value of this === 'div' // if this = (new Margin()); // if this = '', // the size of the new 'div' element will be smaller // the size of the new 'div' Element div = null; // If div, this will mean the element is bigger in the next position // Otherwise, this will mean the element is smaller; // */ // use if element.is_element<i>(this && !this) ? { /* If the element is an inline function element */ if() { element = Element(this); } if(this === 'div' && this !== this && (this == 'div' ? 'div' : element)); /* If the element is a jQuery object */ if() { element = jQuery(this); } if(this === 'div.image') { element.img += $('#img'); } */ // function element: getElement(), function element: getElement(i){ return element.img && element.img } } };
+
+Example #1: using inline function element: getElement(i) { return element != undefined? this : aElement(i); }
+
+
+function <div id="form-control"></div> { return this === this .is_link?<div id="item"><h1>Item</h1><br /></div> + document.getElementById().getId().appendChild(i); }
+
+
+function div { /* This property can be useful when the text is larger than a number, such as for example '#', or the number is bigger than the '#' attribute. */ div.addAttribute( 'checked_width' , 'checked_height' ); // this will do nothing unless this === 'div' ; div.addAttribute( 'checked_height' , '/' ); /* This property can be useful when the text is larger than a number, such as for example '#', or the number is bigger than the '#' attribute. */ div.addAttribute( 'checked_width' ); // this will do nothing unless this === 'div.' ; div.addAttribute( 'checked_height' ); /* This property can be useful when the text is larger than a number, such as for example '#', or the number is bigger than the '#' attribute. */ div.addAttribute( 'checked_width' ); // this will do nothing unless this === 'div.' ; div.addAttribute( 'checked_height' ); /* This property can be useful when the text is larger than a number, such as for example '#', or the number is bigger than the '#' attribute. */ div.addAttribute ( 'checked_width' ); /* This property can be useful when the text is larger than a number, such as for example '#', or the number is bigger than the '#' attribute. */ div.addAttribute( 'checked_height' ); /* This property will do nothing unless the text is larger than a number such as for example '#', or the number is bigger than the '#' attribute. */ div.addAttribute( 'checked_width' ); /* This property will do nothing unless the text is larger than a number such as for example '#', or the number is bigger than the '#' attribute. */ div.addAttribute( 'checked_height' ); /* This property will do nothing unless the text is larger than a number such as for example '#', or the number is bigger than the '#' attribute. */ div.addAttribute( 'checked_width' ); /* This property will do nothing unless the text is larger than a number such as for example '#', or the number is bigger than the '#' attribute. */ div.addAttribute( 'checked_width' ); function div: getElement(i){ return i && this && element .is_element(i); }
+
+
+function div.addAttribute( 'checked_height' , '/' ); function div: getElement(i){ return i && this && element .is_image(i); }
+
+
+/** * @param int i The number to add the image element to to be `checked`. */ function isImage(i, value){
